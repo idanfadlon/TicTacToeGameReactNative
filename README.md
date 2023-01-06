@@ -1,1 +1,1 @@
-# TicTacToeReactNative
+# TicTacToeGameReactNative
